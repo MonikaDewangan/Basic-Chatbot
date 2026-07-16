@@ -1,5 +1,5 @@
 # Basic-Chatbot
-A basic rule-based chatbot developed using Python with predefined responses for common user inputs for the CodeAlpha Pyhton Programming Internship.
+A basic rule-based chatbot developed using Python with predefined responses for common user inputs for the CodeAlpha Python Programming Internship.
 
 ## Features
 - Greets the user
